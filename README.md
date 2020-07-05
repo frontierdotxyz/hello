@@ -14,7 +14,7 @@ Our work and private repositories don't appear on GitHub organization pages, whi
 
 Thanks so much for visiting us and being curious. If you'd like access to beta versions of Frontier or are a developer who is keen to dig into the things we're making, feel free to email us. 
 
-- Android testers can reach us at android@frontierwallet.com.
-- iOS testers can reach us at ios@frontierwallet.com. 
+- Android testers can reach us at android [at] frontierwallet.com.
+- iOS testers can reach us at ios [at] frontierwallet.com. 
 
 Who knows? There might be a special gift waiting for you if you reach out to us and help test what we build. 🙃
