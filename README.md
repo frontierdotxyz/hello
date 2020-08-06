@@ -1,6 +1,6 @@
 Hello,
 
-You're probably here because you've heard of [Frontier Wallet](https://frontierwallet.com) and are interested in what we're building. 
+You're probably here because you've heard of [Frontier](https://frontierwallet.com) and are interested in what we're building. 
 
 Most of our development (for now) happens in a closed kitchen by incredible developers and designers who love their crafts.
 
